@@ -1,4 +1,4 @@
-# SWD Frontend 2
+# SWD Backend
 
 Django Backend Application
 
